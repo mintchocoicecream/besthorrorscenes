@@ -10,4 +10,4 @@ Clone Coding 001
 
 ## Result:
 
-- [https://mintchocoicecream.github.io/besthorrorscenes/](https://mintchocoicecream.github.io/besthorrorscenes/))
+- [https://mintchocoicecream.github.io/besthorrorscenes/](https://mintchocoicecream.github.io/besthorrorscenes/)
